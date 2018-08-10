@@ -31,6 +31,8 @@ Key Features which are avillable
 6.Send Message
 7.Receive Message
 8.Watch Other Profile
-9.Open our Accout setti
+9.Open  Account Setting and change  Status and profile photo
+10.Logout
+
 
                                                                           
